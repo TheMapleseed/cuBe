@@ -1,4 +1,4 @@
-# Blender + Cursor AI MCP = cuBe
+# Blender MCP + Cursor AI MCP = cuBe
 
 This package provides tools to install and configure the BlenderMCP addon for integrating Blender with Cursor AI through the Model Context Protocol (MCP).
 
