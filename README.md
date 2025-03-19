@@ -1,10 +1,9 @@
-# BlenderMCP
+# Blender + Cursor AI MCP = cuBe
 
 This package provides tools to install and configure the BlenderMCP addon for integrating Blender with Cursor AI through the Model Context Protocol (MCP).
 
-## What is BlenderMCP?
-
-BlenderMCP is an addon for Blender that allows you to control Blender programmatically through a socket connection. This enables AI assistants like Cursor AI to create and manipulate 3D objects in Blender.
+## What is cuBe
+cuBe is an addon for Blender that allows you to control Blender programmatically through a socket connection. This enables AI assistants like Cursor AI to create and manipulate 3D objects in Blender.
 
 ## Official Repository
 
@@ -150,8 +149,8 @@ The BlenderMCP addon works seamlessly with Cursor AI. To configure Cursor:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit pull requests or issues on the [GitHub repository](https://github.com/ahujasid/blender-mcp).
+Contributions are welcome!
 
 ## License
 
-This software is provided under the MIT License. 
+This software is provided under the GPLv3 License. 
